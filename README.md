@@ -1,5 +1,8 @@
 Dashboard de Vendas E-commerce 2023
 
+<img width="1231" height="692" alt="image" src="https://github.com/user-attachments/assets/f37494ba-4f1e-4cd2-b53e-4adab9b96f13" />
+
+
 📊 Sobre o projeto
 
 Dashboard desenvolvido no Power BI para análise de vendas de um e-commerce ao longo de 2023.
