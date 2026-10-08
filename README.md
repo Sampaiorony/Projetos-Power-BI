@@ -2,6 +2,8 @@ Dashboard de Vendas E-commerce 2023
 
 <img width="1231" height="692" alt="image" src="https://github.com/user-attachments/assets/f37494ba-4f1e-4cd2-b53e-4adab9b96f13" />
 
+https://app.powerbi.com/groups/me/reports/bf0bed2f-c3db-430a-b564-cd59f45ea38f/4e862381810a0ee98a74?experience=power-bi
+
 
 📊 Sobre o projeto
 
